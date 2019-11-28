@@ -7,4 +7,4 @@ bot.use(Telegraf.log());
 
 setupCommands(bot)
 
-bot.launch();
+bot.startPolling();
