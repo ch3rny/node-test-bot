@@ -12,6 +12,9 @@
   "scripts": {
     "start": "node src/bot.js"
   },
+  "engines": {
+    "node": "10.x"
+  }
   "author": "",
   "license": "ISC"
 }
